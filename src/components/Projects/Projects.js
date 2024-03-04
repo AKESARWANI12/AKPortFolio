@@ -30,7 +30,7 @@ function Projects() {
               description="Full-fledged social media app, encompassing real-time messaging,individual Chat, group Chat and much more. Real-time messaging using Socket.io for instantaneous communication."
 
               ghLink="https://github.com/AKESARWANI12/TAIK-A-TIVE"
-              demoLink="taik-a-tive-client.onrender.com"
+              demoLink="https://taik-a-tive-client.onrender.com"
             />
           </Col>
 
